@@ -1,0 +1,7 @@
+Ejecutamos el diseño de la funcionalidad suma para probar si falla
+
+Si sumamos dos números naturales tiene que darnos verde como resultado, que es que no da error.
+Por ejemplo:
+2+2=4 (devolver resultado)
+2+(-6)=error
+2+0=2 (devolver resultado)
