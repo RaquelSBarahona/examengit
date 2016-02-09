@@ -1,0 +1,12 @@
+Ejecutamos el diseño de la funcionalidad resta para probar si falla.
+
+Si restamos dos números naturales tiene que darnos verde como resultado, que es que no da error.
+Por ejemplo:
+5-2=3 (devolver resultado)
+5-0=5 (devolver resultado)
+
+En este caso se detectaría un error porque no se están restando números naturales.
+2-(-6)=error
+
+En casos como el siguiente diremos que no se puede realizar la resta. 
+3-9=error
