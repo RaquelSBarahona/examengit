@@ -1,0 +1,6 @@
+Ejecutamos el diseño de la funcionalidad multiplicación para probar si falla.
+
+Si multiplicamos dos números naturales tiene que darnos verde como resultado, que es que no da error.
+Por ejemplo:
+2*2=4 (devolver resultado)
+2*(-4)=error
