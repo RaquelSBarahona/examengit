@@ -1,0 +1,1 @@
+Vamos a realizar una prueba de integración de las tres historias de usuario una vez probadas todas las funcionalidades. 
